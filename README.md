@@ -56,40 +56,40 @@ The **Polymarket Copy Trading Bot** is a production-ready, enterprise-grade auto
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                    TRADER SELECTION                          │
-│  Identify top performers from Polymarket Leaderboard         │
+│                    TRADER SELECTION                         │
+│  Identify top performers from Polymarket Leaderboard        │
 └───────────────────────┬─────────────────────────────────────┘
                         │
                         ▼
 ┌─────────────────────────────────────────────────────────────┐
 │                  TRADE MONITORING SERVICE                   │
 │  • Polls trader activity at configurable intervals          │
-│  • Detects new trades via Polymarket Data API                │
-│  • Validates trade timestamps and filters duplicates         │
+│  • Detects new trades via Polymarket Data API               │
+│  • Validates trade timestamps and filters duplicates        │
 └───────────────────────┬─────────────────────────────────────┘
                         │
                         ▼
 ┌─────────────────────────────────────────────────────────────┐
 │                  TRADE EXECUTION SERVICE                    │
-│  • Calculates optimal position size based on strategy        │
-│  • Applies risk management rules and limits                  │
-│  • Validates balance and slippage constraints                │
+│  • Calculates optimal position size based on strategy       │
+│  • Applies risk management rules and limits                 │
+│  • Validates balance and slippage constraints               │
 └───────────────────────┬─────────────────────────────────────┘
                         │
                         ▼
 ┌─────────────────────────────────────────────────────────────┐
 │                    CLOB API CLIENT                          │
-│  • Interfaces with Polymarket CLOB API                       │
+│  • Interfaces with Polymarket CLOB API                      │
 │  • Executes market orders with FOK (Fill-or-Kill)           │
 │  • Handles Gnosis Safe and EOA wallet types                 │
 └───────────────────────┬─────────────────────────────────────┘
                         │
                         ▼
 ┌─────────────────────────────────────────────────────────────┐
-│                    MONGODB DATABASE                          │
+│                    MONGODB DATABASE                         │
 │  • Stores complete trade history                            │
 │  • Tracks positions and profitability                       │
-│  • Maintains audit trail for compliance                      │
+│  • Maintains audit trail for compliance                     │
 └─────────────────────────────────────────────────────────────┘
 ```
 
